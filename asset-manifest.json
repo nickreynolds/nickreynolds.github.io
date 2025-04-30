@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.eda1f9d5.css",
-    "main.js": "/static/js/main.9f130cc3.js",
+    "main.css": "/static/css/main.87b587bf.css",
+    "main.js": "/static/js/main.464075ed.js",
     "static/media/self4.png": "/static/media/self4.9ab5de3eb25709e74383.png",
     "static/media/veramo2.png": "/static/media/veramo2.ba52012b646a12568881.png",
     "static/media/veramo1.png": "/static/media/veramo1.81aa452abe0842bc91a9.png",
     "index.html": "/index.html",
-    "main.eda1f9d5.css.map": "/static/css/main.eda1f9d5.css.map",
-    "main.9f130cc3.js.map": "/static/js/main.9f130cc3.js.map"
+    "main.87b587bf.css.map": "/static/css/main.87b587bf.css.map",
+    "main.464075ed.js.map": "/static/js/main.464075ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.eda1f9d5.css",
-    "static/js/main.9f130cc3.js"
+    "static/css/main.87b587bf.css",
+    "static/js/main.464075ed.js"
   ]
 }
